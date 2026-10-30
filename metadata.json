@@ -1,0 +1,6 @@
+{
+  "name": "LinePulse Orchestrator",
+  "description": "Real-time manufacturing operations orchestrator streaming live machine events, prioritizing downtime risks, and coordinating role-specific responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
